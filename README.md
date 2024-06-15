@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1>Hi, I'm Gediyon! <br/><a href="https://github.com/GediyonTadesse">Programmer</a>, <a href="https://www.linkedin.com/in/gediyon-tadesse-2b435514a/">Cybersecurity Professional</a>
 <!--
 **GediyonTadesse/GediyonTadesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
